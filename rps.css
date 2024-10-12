@@ -1,0 +1,20 @@
+.scores {
+    display: flex;
+    justify-content: space-around;
+}
+
+#result {
+    text-align: center;
+    margin: 1rem;
+}
+
+.choices {
+    display: flex;
+    justify-content: center;
+    gap:2rem;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 10px;
+}
